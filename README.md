@@ -1,2 +1,2 @@
 # Clock.1.2
-Clock made for my project
+Radnom projects made at some point it time for a reson
