@@ -43,6 +43,7 @@ namespace Inventory_Management_System
             userModule.btnSave.Enabled = true;
             userModule.btnUpdate.Enabled = false;
             userModule.ShowDialog();
+            LoadUser();
 
         }
 
@@ -59,6 +60,7 @@ namespace Inventory_Management_System
 
                 userModule.btnSave.Enabled = false;
                 userModule.btnUpdate.Enabled = true;
+                userModule.txtUserName.Enabled = false;
                 userModule.ShowDialog();
             }
             else if (colName == "Delete")
@@ -66,12 +68,14 @@ namespace Inventory_Management_System
                 if (MessageBox.Show("Are you sure you want to delate this user?", "Delete Record", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 {
                     con.Open();
-                    cm = new SqlCommand("DELETE FROM tbUser WHERE phone LIKE '" + dgvUser.Rows[e.RowIndex].Cells[4].Value.ToString() + "'", con);
+                    cm = new SqlCommand("DELETE FROM tbUser WHERE phone LIKE '" + dgvUser.Rows[e.RowIndex].Cells[1].Value.ToString() + "'", con);
                     cm.ExecuteNonQuery();
                     con.Close();
                     MessageBox.Show("Record has been successfuly deleted");
+                    
                 }
             }
+            LoadUser();
         }
     }
 }
