@@ -15,7 +15,7 @@ namespace Inventory_Management_System
     public partial class UserModuleForm : Form
     {
 
-        SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\dbIMS.mdf"";Integrated Security=True;Connect Timeout=30");
+        SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\dbIMS.mdf;Integrated Security=True;Connect Timeout=30");
         SqlCommand cm = new SqlCommand();
         public UserModuleForm()
         {
@@ -41,11 +41,8 @@ namespace Inventory_Management_System
         {
             try
             {
-                if (txtPass.Text != txtRepass.Text)
-                {
-                    MessageBox.Show("Password did not match!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                }
-                if  (MessageBox.Show("Are you sure you want to save this user?", "Saving Record", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+                
+                if  (MessageBox.Show("Are you sure you want to save this user?", "Saving Record", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.OK)
                 {
                     cm = new SqlCommand("INSERT INTO tbUser (username,fullname,password,phone)VALUES(@username,@fullname,@password,@phone)", con);
                     cm.Parameters.AddWithValue("@username", txtUserName.Text);
