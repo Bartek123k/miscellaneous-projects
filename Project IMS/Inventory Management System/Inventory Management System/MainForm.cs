@@ -17,6 +17,9 @@ namespace Inventory_Management_System
             InitializeComponent();
         }
 
-      
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
