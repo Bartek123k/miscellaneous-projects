@@ -1,5 +1,5 @@
 # Miscellaneous projects
-Random projects made at for study, started at the beginning of 2023. 
+Random projects made for learning purposes, started at the beginning of 2023. 
 
 ### Folder first contains: 
 >My first project, made in 2023 
@@ -10,3 +10,4 @@ Random projects made at for study, started at the beginning of 2023.
 >project made in 2024
 >>clock
 >>>consol app
+
