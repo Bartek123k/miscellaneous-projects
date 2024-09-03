@@ -1,0 +1,24 @@
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.LoginForm.resources
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.CustomerButton.resources
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.MainForm.resources
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.UserForm.resources
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.UserModuleForm.resources
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\bin\Debug\dbIMS.mdf
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\bin\Debug\dbIMS_log.ldf
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.CustomerForm.resources
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.CustomerModuleForm.resources
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.CategoryForm.resources
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.CategoryModuleForm.resources
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.ProductForm.resources
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.ProductModuleForm.resources
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.OrderForm.resources
+C:\Users\barte\Documents\GitHub\Clock.1.2\Project IMS\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.OrderModuleForm.resources
