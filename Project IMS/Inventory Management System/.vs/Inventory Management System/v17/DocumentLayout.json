@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|c:\\users\\barte\\documents\\github\\clock.1.2\\project ims\\inventory management system\\inventory management system\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|c:\\users\\barte\\documents\\github\\clock.1.2\\project ims\\inventory management system\\inventory management system\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|c:\\users\\barte\\documents\\github\\clock.1.2\\project ims\\inventory management system\\inventory management system\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\inventory management system\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|c:\\users\\barte\\documents\\github\\clock.1.2\\project ims\\inventory management system\\inventory management system\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|c:\\users\\barte\\documents\\github\\clock.1.2\\project ims\\inventory management system\\inventory management system\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|c:\\users\\barte\\documents\\github\\clock.1.2\\project ims\\inventory management system\\inventory management system\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|c:\\users\\barte\\documents\\github\\clock.1.2\\project ims\\inventory management system\\inventory management system\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\inventory management system\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\inventory management system\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\inventory management system\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:Inventory Management System\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\inventory management system\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\inventory management system\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|c:\\users\\barte\\documents\\github\\clock.1.2\\project ims\\inventory management system\\inventory management system\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\inventory management system\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\inventory management system\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\inventory management system\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:Inventory Management System\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDD96C38-4376-4A61-9972-8E9BF3DD36DC}|Inventory Management System\\Inventory Management System.csproj|C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\inventory management system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -78,11 +82,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "CategoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "Inventory Management System\\CategoryForm.cs",
+              "ToolTip": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\CategoryForm.cs [Design]",
+              "RelativeToolTip": "Inventory Management System\\CategoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:57:40.354Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "UserForm.cs",
               "DocumentMoniker": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\UserForm.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\UserForm.cs",
@@ -95,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "CustomerForm.cs",
               "DocumentMoniker": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\CustomerForm.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\CustomerForm.cs",
@@ -108,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "CustomerForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\CustomerForm.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\CustomerForm.cs",
@@ -120,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "CustomerModuleForm.cs",
               "DocumentMoniker": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\CustomerModuleForm.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\CustomerModuleForm.cs",
@@ -133,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CustomerModuleForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\CustomerModuleForm.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\CustomerModuleForm.cs",
@@ -145,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "UserModuleForm.cs",
               "DocumentMoniker": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\UserModuleForm.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\UserModuleForm.cs",
@@ -158,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserModuleForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\UserModuleForm.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\UserModuleForm.cs",
@@ -170,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "UserForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\UserForm.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\UserForm.cs",
@@ -182,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\Program.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\Program.cs",
@@ -190,12 +206,11 @@
               "RelativeToolTip": "Inventory Management System\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T16:55:28.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T16:55:28.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\MainForm.Designer.cs",
@@ -208,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\MainForm.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\MainForm.cs",
@@ -221,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "CustomerButton.Designer.cs",
               "DocumentMoniker": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\CustomerButton.Designer.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\CustomerButton.Designer.cs",
@@ -229,24 +244,22 @@
               "RelativeToolTip": "Inventory Management System\\CustomerButton.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAwwCUAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T16:41:11.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T16:41:11.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "CustomerButton.cs [Design]",
               "DocumentMoniker": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\CustomerButton.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\CustomerButton.cs",
               "ToolTip": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\CustomerButton.cs [Design]",
               "RelativeToolTip": "Inventory Management System\\CustomerButton.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T16:41:07.282Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-02T16:41:07.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\MainForm.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\MainForm.cs",
@@ -258,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CustomerButton.cs",
               "DocumentMoniker": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\CustomerButton.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\CustomerButton.cs",
@@ -266,12 +279,11 @@
               "RelativeToolTip": "Inventory Management System\\CustomerButton.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAiwCYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T16:27:17.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T16:27:17.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\LoginForm.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\LoginForm.cs",
@@ -279,20 +291,18 @@
               "RelativeToolTip": "Inventory Management System\\LoginForm.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAAAEMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T15:59:12.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T15:59:12.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "LoginForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\LoginForm.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\LoginForm.cs",
               "ToolTip": "C:\\Users\\barte\\Documents\\GitHub\\Clock.1.2\\Project IMS\\Inventory Management System\\Inventory Management System\\LoginForm.cs [Design]",
               "RelativeToolTip": "Inventory Management System\\LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T15:19:24.71Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-02T15:19:24.71Z"
             }
           ]
         }
