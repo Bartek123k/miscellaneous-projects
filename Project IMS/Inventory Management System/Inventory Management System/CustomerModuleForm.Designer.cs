@@ -39,7 +39,7 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.pictureBoxClose = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.lblCld = new System.Windows.Forms.Label();
+            this.lblCid = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxClose)).BeginInit();
             this.SuspendLayout();
@@ -55,6 +55,7 @@
             this.btnClear.TabIndex = 25;
             this.btnClear.Text = "Clear";
             this.btnClear.UseVisualStyleBackColor = false;
+            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
             // 
             // btnUpdate
             // 
@@ -67,6 +68,7 @@
             this.btnUpdate.TabIndex = 24;
             this.btnUpdate.Text = "Update";
             this.btnUpdate.UseVisualStyleBackColor = false;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // btnSave
             // 
@@ -135,6 +137,7 @@
             this.pictureBoxClose.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBoxClose.TabIndex = 9;
             this.pictureBoxClose.TabStop = false;
+            this.pictureBoxClose.Click += new System.EventHandler(this.pictureBoxClose_Click);
             // 
             // label1
             // 
@@ -147,23 +150,23 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "Customer Module";
             // 
-            // lblCld
+            // lblCid
             // 
-            this.lblCld.AutoSize = true;
-            this.lblCld.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.lblCld.Location = new System.Drawing.Point(168, 346);
-            this.lblCld.Name = "lblCld";
-            this.lblCld.Size = new System.Drawing.Size(94, 20);
-            this.lblCld.TabIndex = 26;
-            this.lblCld.Text = "customer id";
-            this.lblCld.Visible = false;
+            this.lblCid.AutoSize = true;
+            this.lblCid.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.lblCid.Location = new System.Drawing.Point(168, 346);
+            this.lblCid.Name = "lblCid";
+            this.lblCid.Size = new System.Drawing.Size(94, 20);
+            this.lblCid.TabIndex = 26;
+            this.lblCid.Text = "customer id";
+            this.lblCid.Visible = false;
             // 
             // CustomerModuleForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1299, 466);
-            this.Controls.Add(this.lblCld);
+            this.Controls.Add(this.lblCid);
             this.Controls.Add(this.btnClear);
             this.Controls.Add(this.btnUpdate);
             this.Controls.Add(this.btnSave);
@@ -174,7 +177,7 @@
             this.Controls.Add(this.panel1);
             this.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "CustomerModuleForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "CustomerModuleForm";
@@ -197,6 +200,6 @@
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.PictureBox pictureBoxClose;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label lblCld;
+        public System.Windows.Forms.Label lblCid;
     }
 }

@@ -24,7 +24,7 @@ namespace Inventory_Management_System
 
         private void customerButton2_Click(object sender, EventArgs e)
         {
-
+            openChildForm(new CustomerForm());
         }
 
     private Form activeForm = null;
