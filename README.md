@@ -3,8 +3,8 @@ Random projects made for learning purposes, started at the beginning of 2023.
 
 ---
 
-## Project IMS
-Project made in 2024. 
+## Project IMS :
+Project made in 2024, Using VS and VS Code.
 
 ### About: 
 Inventory Management System is a small scale project made to gain practical knowledge in creating frontend application. IMS helps you create a DataBase, and at the same time manipulate it using simple to operate and understand GUI.
@@ -14,8 +14,8 @@ Controlled application access with account permissions, Main menu for fast navig
 
 ---
 
-## Project first contains: 
-First project, made in 2023 
+## Project first : 
+Project made in 2023, Using VS Code.
 
 ### About: 
 Consol tic_tac_toe game made in C++.
@@ -27,8 +27,8 @@ Simple menu navagitable with arrows keys.
 
 ---
 
-## Project second contains:
-Project made in 2024
+## Project second :
+Project made in 2024, Using VS Code.
 
 ### About: 
 Consol 8 segment clock made in C++.
@@ -41,8 +41,8 @@ Timer
 
 ---
  
-## Project HospitalDB contains:
-Project made in 2024
+## Project HospitalDB :
+Project made in 2024, Using SQL Server Management Studio 20.
 
 ### About:
 Simple database created using Sql server management studio for exercises  and practice
