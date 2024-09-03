@@ -74,5 +74,15 @@ namespace Inventory_Management_System
         {
             LoadProduct();
         }
+
+        private void panel3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void dgvCustomer_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
