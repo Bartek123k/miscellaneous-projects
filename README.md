@@ -14,7 +14,7 @@ Controlled application access with account permissions, Main menu for fast navig
 
 ---
 
-## Project first : 
+## Project tic_tac_toe : 
 Project made in 2023, Using VS Code.
 
 ### About: 
@@ -27,7 +27,7 @@ Simple menu navagitable with arrows keys.
 
 ---
 
-## Project second :
+## Project clock :
 Project made in 2024, Using VS Code.
 
 ### About: 
